@@ -1,4 +1,4 @@
-- 👋 Hey there! I'm Syed Abdul Nawaz, a passionate developer with 4 years of experience in Machine Learning.
+- 👋 Hey there! I'm Syed Abdul Nawaz, a passionate developer with 4 years of experience in coding.
 - 🚀 My areas of expertise include Technical Skills, and I am always interested in learning something new.
 - ♚ When I have free time, I enjoy playing Chess.
 - 🌱 I’m currently pursuing knowledge acquisition in the rapidly growing field of artificial intelligence.
